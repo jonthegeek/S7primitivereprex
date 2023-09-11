@@ -1,18 +1,15 @@
-#' @export
 my_class <- S7::new_class(
   "my_class",
   package = "S7primitivereprex",
   parent = S7::class_character
 )
 
-#' @export
 my_other_class <- S7::new_class(
   "my_other_class",
   package = "S7primitivereprex",
   parent = S7::class_character
 )
 
-#' @export
 S7::method(length, my_class) <- function(x) {
   1
 }
