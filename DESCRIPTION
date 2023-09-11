@@ -10,9 +10,6 @@ URL: https://github.com/jonthegeek/S7primitivereprex
 BugReports: https://github.com/jonthegeek/S7primitivereprex/issues
 Imports: 
     S7
-Suggests: 
-    testthat (>= 3.0.0)
-Config/testthat/edition: 3
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.3
