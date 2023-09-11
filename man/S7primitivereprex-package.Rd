@@ -6,13 +6,12 @@
 \alias{S7primitivereprex-package}
 \title{S7primitivereprex: What the Package Does}
 \description{
-The goal of S7primitivereprex is to...
+The goal of S7primitivereprex is to demonstrate an S7 bug.
 }
 \seealso{
 Useful links:
 \itemize{
   \item \url{https://github.com/jonthegeek/S7primitivereprex}
-  \item \url{https://jonthegeek.github.io/S7primitivereprex/}
   \item Report bugs at \url{https://github.com/jonthegeek/S7primitivereprex/issues}
 }
 

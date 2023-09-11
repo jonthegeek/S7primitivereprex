@@ -4,13 +4,16 @@ Version: 0.0.0.9000
 Authors@R: 
     person("Jon", "Harmon", , "jonthegeek@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0003-4781-4346"))
-Description: The goal of S7primitivereprex is to...
+Description: The goal of S7primitivereprex is to demonstrate an S7 bug.
 License: MIT + file LICENSE
-URL: https://github.com/jonthegeek/S7primitivereprex,
-    https://jonthegeek.github.io/S7primitivereprex/
+URL: https://github.com/jonthegeek/S7primitivereprex
 BugReports: https://github.com/jonthegeek/S7primitivereprex/issues
+Imports: 
+    S7
 Suggests: 
     testthat (>= 3.0.0)
+Remotes:
+    rconsortium/S7#343
 Config/testthat/edition: 3
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
